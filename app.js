@@ -58,7 +58,7 @@ const app = {
         {
             name: 'Chiếc điện thoại thần kỳ',
             rapper: 'Cô Ngốc',
-            image: './assets/img/Congoc.jpg',
+            image: './assets/img/CoNgoc.jpg',
             path: './assets/audio/song-7-legend.mp3'
         },
         {
